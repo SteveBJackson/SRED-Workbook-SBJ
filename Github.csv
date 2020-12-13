@@ -1,0 +1,450 @@
+Archivist	Fri Sep 30 14:41:06 2016	-0400 --	robertjackson	: initial commit of full repository
+Bangs	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	: Initial Commit
+CaSimulator	Tue Jan 15 15:02:07 2019	 -0500 --	robertjackson :	first commit
+Consistifier	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+DS_Misc	Wed Aug 1 11:53:12 2018	 -0400 -- 	Jamie	bad commit
+DS_Misc	Wed Aug 1 11:51:53 2018	 -0400 -- 	Jamie	Merge remote-tracking branch 'origin/master'
+DS_Misc	Wed Aug 1 11:41:40 2018	 -0400 -- 	Jamie	Added __version__ label Updated file for DSAPI version 1.0.1   - added flatArchiver file, cacert, qt settting.  Added recon to create a html outfile and pdf output file
+DS_Misc	Tue Jun 12 14:02:06 2018	 -0400 -- 	Jamie 	 Added __version__ label Updated file for DSAPI version 1.0.1   - added flatArchiver file, cacert, qt settting.
+DS_Misc	Tue May 22 13:36:09 2018	 -0400 --	robertjackson 	Use yaml.py for initialization
+DS_Misc	Tue May 8 15:33:15 2018	 -0400 -- 	robertjackson 	Applied universal dsapi
+DS_Misc	Fri Mar 16 15:38:53 2018	 -0400 -- 	robertjackson 	Much done
+DS_Misc	Thu Mar 8 17:40:45 2018	 -0500 -- 	Steve Jackson 	Removed my name
+DS_Misc	Thu Mar 8 17:22:13 2018	 -0500 -- 	GitHub	Update dsapi.py
+DS_Misc	Tue Mar 6 10:02:23 2018	 -0500 -- 	robertjackson 	Update cpp calculations, Latest dsapi
+DS_Misc	Mon Mar 5 10:30:55 2018 	-0500 -- 	Steve Jackson 	Added CPP basic exemption code.
+DS_Misc	Mon Mar 5 09:47:17 2018 	-0500 -- 	Steve Jackson 	Added EI & CPP calculations
+DS_Misc	Tue Feb 27 13:56:54 2018 	-0500 -- 	Steve Jackson 	Fix some path issues
+DS_Misc	Tue Feb 27 10:47:14 2018	 -0500 -- 	robertjackson 	Changes to PayrollDS
+DS_Misc	Mon Feb 26 11:16:30 2018	 -0500 --	 robertjackson	 Move files
+DS_Misc	Fri Feb 23 23:11:22 2018	 -0500 -- 	robertjackson 	Wrapped autopay.py and payrollFeb14_18.py in DS
+DS_Misc	Thu Feb 15 16:27:22 2018	 -0500 -- 	robertjackson 	dsapi updated, Updated Pay Stub
+DS_Misc	Tue Feb 13 16:57:18 2018	 -0500 -- 	Jamie Rodgers 	Update cvstoDS for init load
+DS_Misc	Tue Feb 6 15:27:35 2018	 -0500 -- 	robertjackson 	recordTypes to strings, Local Archive updated
+DS_Misc	Fri Feb 2 14:11:03 2018	 -0500 -- 	robertjackson 	Fixes
+DS_Misc	Thu Feb 1 16:50:55 2018	 -0500 -- 	Jamie Rodgers 	Added PayRequest to send dummy reply
+DS_Misc	Wed Jan 31 17:34:47 2018	 -0500 -- 	Jamie Rodgers 	Update the payrequest to payroll
+DS_Misc	Fri Jan 26 14:50:00 2018	 -0500 -- 	Jamie Rodgers 	Added CSV files to github
+DS_Misc	Fri Jan 26 14:43:17 2018	 -0500 -- 	Jamie Rodgers 	Added Readme.md
+DS_Misc	Fri Jan 26 14:09:50 2018	 -0500 -- 	Steve Jackson 	Installed and paths fixed for Steve PC
+DS_Misc	Fri Jan 26 12:33:50 2018 	-0500 -- 	Jamie Rodgers 	Workin Progress update
+DS_Misc	Wed Jan 10 14:04:06 2018	 -0500 -- 	Jamie Rodgers 	Adding speedtest
+DS_Misc	Wed Jan 10 13:18:45 2018	 -0500 -- 	Jamie Rodgers 	DS Utility Backup
+DS_Misc	Tue Jan 2 13:24:38 2018 	-0500 -- 	Jamie Rodgers 	Adding .gitinignore
+DS_Misc	Tue Jan 2 13:24:02 2018	 -0500 -- 	Jamie Rodgers 	Initial commit
+DS_Versioner	Thu Sep 21 20:35:01 2017	-0400 --	robertjackson	Initial Commit
+DSAPI	Wed May 15 17:22:45 2019	-400	Jamie	Fixed some exiting of the publishing queue * version number now 2.0.3
+DSAPI	Thu May 9 15:28:51 2019	-400	Jamie	* Changed the static MYDBid to allway recreate a new id on start * Changed to subcriber queue to be exclusive (now auto delete on server when connection is lost * added some testing program test.py and VH_test.py * version number now 2.0.2
+DSAPI	Wed May 8 17:01:37 2019 	-400	robertjackson	Enable virtual credentials for broker connection
+DSAPI	Wed Apr 3 15:11:54 2019 	-400	Jamie	Debuging the PandS_Test
+DSAPI	Mon Mar 11 13:25:43 2019 	-400	robertjackson	Fixed things
+DSAPI	Tue Mar 5 15:14:37 2019 	-500	robertjackson	changed Gui to SubscriberFactory to create subscribers
+DSAPI	Mon Feb 11 16:49:01 2019 	-500	Jamie	Increase version number to 2.0.0 This is a WIP.
+DSAPI	Mon Feb 11 11:36:16 2019 	-500	Jamie	Increase version number to 1.0.5 This is a WIP.  To put the subscriber and publisher in alignment.  Change the publisher to create a connection and maintain it for the duration of the program.
+DSAPI	Tue Jan 29 15:22:16 2019 	-500	robertjackson	Fixed Problems
+DSAPI	Tue Jan 29 15:21:26 2019 	-500	robertjackson	Fixed problems
+DSAPI	Fri Jan 25 16:21:06 2019 	-500	Jamie	Increase version number to 1.0.2 Added Virtual Host parameter brokerVirtual to setting.yaml Modified DSAPI to support virtual host parameter
+DSAPI	Tue Jun 12 13:41:18 2018 	-400	Jamie	Added Version block and __version__ label.
+DSAPI	Thu Jun 7 18:40:24 2018 	-400	Jamie	Update DSAPI to ssl or tls.  Also Added a test Publish and Subscribe test program.
+DSAPI	Thu Jun 7 14:37:35 2018 	-400	robertjackson	Unify QT and normal versions
+DSAPI	Fri Mar 16 15:52:14 2018 	-400	robertjackson	Fixes
+DSAPI	Fri Jan 26 14:07:54 2018 	-500	robertjackson	Update
+DSAPI	Thu Jan 25 11:40:15 2018 	-500	robertjackson	Update
+DSAPI	Tue Jan 2 16:32:08 2018 	-500	Jamie Rodgers	Adding updateArchive funtion to DS_Utility
+DSAPI	Tue Jan 2 15:20:00 2018 	-500	robertjackson	Fix timer call bug
+DSAPI	Sun Dec 31 13:41:51 2017 	-500	robertjackson	Fix timer problem in LibrarianClient
+DSAPI	Sat Dec 30 19:39:39 2017 	-500	robertjackson	Update refreshArchive
+DSAPI	Fri Nov 17 16:09:57 2017 	-500	robertjackson	More API Fixes
+DSAPI	Thu Nov 9 15:53:55 2017 	-500	robertjackson	Fix problems with Parameters
+DSAPI	Fri Nov 3 14:57:23 2017 	-400	robertjackson	Eliminate Global Files
+DSAPI	Wed Nov 1 13:44:24 2017 	-400	robertjackson	Main DSAPI after QT version forked
+DSAPI	Wed Oct 25 16:11:26 2017 	-400	robertjackson	Test Commit
+DSAPI	Tue Oct 24 10:58:07 2017 	-400	robertjackson	Simplified librarian, Incorporated encryption
+DSAPI	Thu Sep 21 16:50:19 2017 	-400	robertjackson	Update
+DSAPI	Mon Jul 10 10:45:57 2017 	-400	Jamie Rodgers	"Merge remote-tracking branch ""origin/master"""
+DSAPI	Mon Jul 10 10:44:36 2017 	-400	Jamie Rodgers	Add logging header
+DSAPI	Sat Jul 8 13:26:32 2017 	-400	robertjackson	Started assured delivery publisher, Assorted changes
+DSAPI	Fri Jul 7 13:34:32 2017 	-400	Jamie Rodgers	Updated logging
+DSAPI	Wed Jul 5 15:03:22 2017 	-400	Jamie Rodgers	Update dsapi from lastest in archivist
+DSAPI	Tue Jun 6 13:44:58 2017 	-400	robertjackson	Fix anomoly
+DSAPI	Fri Jun 2 10:47:40 2017 	-400	Robert Jackson	Implement routing keys to limit subscriptions to those of interest.
+DSAPI	Mon May 29 14:30:21 2017 	-400	robertjackson	Update parameters, Add refreshArchive method
+DSAPI	Fri Apr 21 00:04:30 2017 	-400	robertjackson	Sub Class SubscriberThread
+DSAPI	Thu Apr 20 15:13:50 2017 	-400	robertjackson	Fixed missed versioning parameter removal.
+DSAPI	Thu Apr 20 14:59:54 2017 	-400	robertjackson	Undo Versioning switch
+DSAPI	Thu Apr 20 10:21:31 2017 	-400	Robert Jackson	Remove prepended versioning field from a message (along with dbid) prior to passing it along through the SubscriberTask.
+DSAPI	Tue Apr 18 17:08:48 2017 	-400	robertjackson	Delete precursor files
+DSAPI	Tue Apr 18 11:02:14 2017 	-400	robertjackson	Initial Commit
+DSAPIQT	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+DSI_Template	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+Eventz	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+eventzAPI	Wed Jul 8 16:43:56 2020 	-0400 --	robertjackson	Miscellaneous fixes
+eventzAPI	Mon Apr 27 15:35:24 2020	-0400 --	robertjackson	Tweak shutdown
+eventzAPI	Mon Apr 27 14:31:52 2020	-0400 --	robertjackson	Housekeeping
+eventzAPI	Wed Sep 18 10:03:02 2019	-0400 --	robertjackson	Update Qt support
+eventzAPI	Tue Sep 17 15:18:36 2019	-0400 --	robertjackson	Rename Repositories to eventzAPI
+eventzAPI	Thu Aug 22 13:13:28 2019	-0400 --	robertjackson	Version 2.0.6
+eventzAPI	Wed Aug 14 15:21:12 2019	-0400 --	robertjackson	Many changes
+eventzAPI	Fri Jun 7 15:31:06 2019 	-0400 --	GitHub	Create README
+eventzAPI	Wed May 22 17:19:34 2019	-0400 --	robertjackson	Fix typos
+eventzAPI	Wed May 22 16:55:59 2019	-0400 --	robertjackson	Another Initial Commit
+eventzAPI	Tue May 21 16:58:47 2019	-0400 --	GitHub	Initial commit
+FREDD_Demo	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+HawkeyeCRC	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+hello_world	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+Hotel	Thu May 23 13:59:53 2019	-0400 --	robertjackson	Merge branch 'master' of https://github.com/robertjackson/hotel into ahmed/Hotel
+Hotel	Thu May 23 13:59:26 2019	-0400 --	robertjackson	Move to EventzAPI
+Hotel	Wed May 15 17:21:01 2019	-0400 --	Jamie	other setting.yaml for testing
+Hotel	Wed May 15 17:19:07 2019	-0400 --	Jamie	Fixing commit problem
+Hotel	Wed May 15 17:17:03 2019	-0400 --	Jamie	Merge remote-tracking branch 'origin/master'
+Hotel	Wed May 15 17:02:43 2019	-0400 --	Jamie	updated to the lastest DSAPI
+Hotel	Mon Mar 11 13:29:19 2019	-0400 --	robertjackson	Update
+Hotel	Mon Mar 11 13:28:48 2019	-0400 --	robertjackson	Compatible with latest DSAPI
+Hotel	Wed Mar 6 16:27:38 2019 	-0500 --	Jamie	testing push
+Hotel	Wed Mar 6 15:56:22 2019 	-0500 --	Jamie	Update exitingand tennat
+Hotel	Tue Mar 5 15:23:54 2019 	-0500 --	robertjackson	API fixes
+Hotel	Mon Mar 4 20:44:17 2019 	-0500 --	robertjackson	Adapt to DSAPI changes
+Hotel	Tue Feb 19 14:35:13 2019	-0500 --	robertjackson	Updated dsapi integration
+Hotel	Thu Jan 31 15:32:30 2019	-0500 --	robertjackson	Fixed interTaskQueue confusion
+Hotel	Tue Jan 29 14:13:36 2019	-0500 --	robertjackson	Upgraded to latest API
+Hotel	Fri Jan 25 10:38:32 2019	-0500 --	robertjackson	WIP
+Hotel	Tue Jan 22 15:44:11 2019	-0500 --	robertjackson	Update
+Hotel	Tue Jan 22 14:11:01 2019	-0500 --	robertjackson	Updating
+Hotel	Fri Sep 22 14:14:29 2017	-0400 --	robertjackson	Modify to support versioning
+Hotel	Tue Sep 19 17:37:47 2017	-0400 --	Jamie Rodgers	Port from TKinter to Kivy, Python3 to Python2, for Andriod
+Hotel	Tue Sep 19 17:10:06 2017	-0400 --	Jamie Rodgers	Commit of Kivy
+Hotel	Tue Sep 5 14:49:17 2017 	Err:520	Jamie Rodgers	Changed the exchange
+Hotel	Tue Sep 5 14:30:42 2017 	-0400 --	Jamie Rodgers	Dummy test push
+Hotel	Thu Aug 31 16:16:47 2017	-0400 --	Jamie Rodgers	Fixed System routing key
+Hotel	Fri Jun 2 10:46:38 2017 	-0400 --	Robert Jackson	Implement dsapi changes
+Hotel	Fri Jun 2 10:44:13 2017 	-0400 --	Robert Jackson	Implement routing keys for subscriptions.
+Hotel	Wed May 31 00:57:10 2017	-0400 --	Robert Jackson	Updated to latest dsiapi and re-configured globals
+Hotel	Fri Apr 21 01:02:37 2017	-0400 --	Robert Jackson	Use updated dsapi.
+Hotel	Thu Apr 20 15:12:29 2017	-0400 --	Robert Jackson	Respond to dsapi change re: versioning.
+Hotel	Thu Apr 20 13:29:40 2017	-0400 --	Robert Jackson	Merged branch master into master
+Hotel	Thu Apr 20 10:31:30 2017	-0400 --	Robert Jackson	Add versioning parameter to publish method calls.
+Hotel	Thu Apr 20 10:31:30 2017	-0400 --	Robert Jackson	Add versioning parameter to publish method calls.
+Hotel	Tue Apr 4 10:09:14 2017 	-0400 --	Robert Jackson	Fixes
+Hotel	Tue Mar 28 10:10:46 2017	-0400 --	robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/hotel
+Hotel	Tue Mar 28 00:06:10 2017	-0400 --	robertjackson	Initial Commit
+Hotel	Tue Mar 28 03:40:57 2017	+0000 --	I-Technology Inc. NA	.gitignore created online with Bitbucket
+hotel-kivy	Tue Oct 17 14:55:35 2017	-0400 --	Jamie Rodgers	File should not be there
+hotel-kivy	Tue Oct 17 14:36:25 2017	-0400 --	Jamie Rodgers	Hotel apps in Kivy
+hotel-kivy	Tue Oct 17 18:20:02 2017	+0000 --	Jamie Rodgers	README.md created online with Bitbucket
+hotelRes-kivy	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+HotelRS	Fri Nov 17 16:18:46 2017	-0500 --	robertjackson	Restore Chris’s Fix
+HotelRS	Fri Nov 17 16:14:26 2017	-0500 --	robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/hotelrs
+HotelRS	Fri Nov 17 16:11:41 2017	-0500 --	robertjackson	Update dsapi
+HotelRS	Wed Sep 6 15:20:43 2017 	-0400 --	Chris-B-Jackson	"Changed interface ""Continue"" button to ""Request Reservation"",  fixed ReservationClient hiding text"
+HotelRS	Tue Aug 29 14:29:53 2017	-0400 --	Chris-B-Jackson	Updated the State Table to allow a reset at any time.
+HotelRS	Mon Aug 28 21:29:49 2017	-0400 --	Chris-B-Jackson	Fixed routing keys
+HotelRS	Wed Aug 23 17:52:34 2017	-0400 --	Chris-B-Jackson	Added room count capability
+HotelRS	Tue Aug 15 17:24:35 2017	-0400 --	Chris-B-Jackson	Added an invalid date box and test
+HotelRS	Tue Aug 15 16:02:21 2017	-0400 --	Chris-B-Jackson	Added Help & About dialogs
+HotelRS	Sun Aug 13 11:43:34 2017	-0400 --	robertjackson 	Add Help Menu
+HotelRS	Tue Aug 8 16:00:12 2017	-0400 --	 Chris-B-Jackson	Add exit button
+HotelRS	Tue Aug 8 15:33:06 2017	-0400 --	 robertjackson	Initial Debugging
+HotelRS	Tue Aug 1 14:58:25 2017	-0400 --	 robertjackson	Initial Commit
+KivyDesigner	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+Librarian	Fri Sep 30 15:07:08 2016	-0400 --	robertjackson	initial commit of full repository
+licenseTracker	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+objectify	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+pcbMRP	Fri Nov 18 09:42:16 2016	 -0500 --	Paul Halliday	Path changes
+pcbMRP	Fri Nov 18 09:05:22 2016	 -0500 --	robertjackson	Merge branch 'rjsbranch' of https://bitbucket.org/itechnologyinc/pcbmrp into rjsbranch
+pcbMRP	Thu Nov 17 22:53:40 2016	 -0500 --	robertjackson	Index DS references, Respond to Ping System Message
+pcbMRP	Wed Nov 16 16:05:30 2016	 -0500 --	Paul Halliday	Convert Utilities/dialogTest.py to pyqt5
+pcbMRP	Wed Nov 16 15:55:09 2016	 -0500 --	robertjackson	Dialog Test added
+pcbMRP	Wed Nov 16 15:33:50 2016	 -0500 --	Paul Halliday	pyqt5 conversion for NJ
+pcbMRP	Fri Nov 4 11:34:57 2016 	-0400 --	robertjackson	Change Login behaviour, Allow for more Metadata, Expose globals
+pcbMRP	Thu Nov 3 14:04:10 2016 	-0400 --	robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/pcbmrp into rjsbranch
+pcbMRP	Thu Nov 3 14:03:44 2016 	-0400 --	robertjackson	Implement Receipt generation from PO Item, Part Count dialog
+pcbMRP	Wed Oct 26 15:44:41 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Delete web-browsers.xml
+pcbMRP	Wed Oct 26 15:41:04 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Create web-browsers.xml
+pcbMRP	Wed Oct 26 15:03:48 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml, packages.xml, Delete web-browsers.xml
+pcbMRP	Wed Oct 26 15:02:38 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Wed Oct 26 14:38:10 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Wed Oct 26 14:16:27 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Wed Oct 26 14:02:44 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml, Create ui.lnf.xml
+pcbMRP	Wed Oct 26 11:59:50 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml, Create web-browsers.xml
+pcbMRP	Tue Oct 25 17:24:02 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Tue Oct 25 16:40:21 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml, Delete web-browsers.xml
+pcbMRP	Tue Oct 25 15:58:02 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Tue Oct 25 15:34:41 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Tue Oct 25 14:59:50 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Tue Oct 25 14:31:53 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Tue Oct 25 14:14:21 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Tue Oct 25 14:00:47 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Tue Oct 25 13:20:37 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Tue Oct 25 13:01:38 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml, packages.xml, Create web-browsers.xml
+pcbMRP	Thu Oct 20 16:59:10 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Thu Oct 20 16:48:00 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Thu Oct 20 16:45:50 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update ignore.xml, bitbucket-hosting-registry.xml, Create hg.xml
+pcbMRP	Thu Oct 20 16:07:39 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Thu Oct 20 15:57:13 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Thu Oct 20 15:41:20 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Thu Oct 20 15:26:37 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update bitbucket-hosting-registry.xml
+pcbMRP	Thu Oct 20 15:05:56 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Create bitbucket-hosting-registry.xml, Delete web-browsers.xml
+pcbMRP	Thu Oct 20 14:37:10 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Create mavenVersion.xml
+pcbMRP	Thu Oct 20 14:07:21 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Create web-browsers.xml
+pcbMRP	Thu Oct 20 13:56:57 2016	 -0400 --	robertjackson	Bypass WIP
+pcbMRP	Thu Oct 20 12:11:26 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Update packages.xml, Delete web-browsers.xml
+pcbMRP	Wed Oct 19 12:30:24 2016	 -0400 --	robertjackson	Fix Shortages, Add features
+pcbMRP	Tue Oct 18 13:20:07 2016	 -0400 --	Jamie	IC-2016.2.5 <sbj@sbj-ThinkPad-T410 Create web-browsers.xml
+pcbMRP	Tue Oct 18 12:55:18 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update packages.xml, Delete web-browsers.xml
+pcbMRP	Tue Oct 11 13:19:35 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Create filetypes.xml
+pcbMRP	Thu Oct 6 14:02:22 2016 	-0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update packages.xml
+pcbMRP	Wed Oct 5 16:48:52 2016 	-0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Merge branch 'master'
+pcbMRP	Wed Oct 5 16:26:17 2016 	-0400 --	robertjackson	Fix Boo Boo
+pcbMRP	Wed Oct 5 16:22:19 2016 	-0400 --	robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/pcbmrp
+pcbMRP	Wed Oct 5 16:15:10 2016 	-0400 --	robertjackson	Implement authentication, Suppress print statements
+pcbMRP	Wed Oct 5 15:05:01 2016 	-0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Create web-browsers.xml
+pcbMRP	Wed Oct 5 11:51:42 2016 	-0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update packages.xml, Delete web-browsers.xml
+pcbMRP	Thu Sep 29 17:05:45 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update diff.xml
+pcbMRP	Thu Sep 29 15:09:09 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update packages.xml, Create web-browsers.xml, Delete Default.xml
+pcbMRP	Thu Sep 29 14:22:37 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Merge branch 'master'
+pcbMRP	Wed Sep 28 11:53:18 2016	 -0400 --	robertjackson	Implement P & S
+pcbMRP	Tue Sep 27 11:43:33 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update packages.xml, Delete web-browsers.xml
+pcbMRP	Fri Sep 23 12:45:28 2016	 -0400 --	robertjackson	Fixed some boo boo’s
+pcbMRP	Fri Sep 23 10:27:00 2016	 -0400 --	robertjackson	Part Transactions added.
+pcbMRP	Thu Sep 22 13:29:34 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update find.xml
+pcbMRP	Thu Sep 22 12:07:40 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Create find.xml
+pcbMRP	Thu Sep 22 11:58:58 2016	 -0400 --	robertjackson	Fix Pick generation to allow for fractional quantities
+pcbMRP	Thu Sep 22 11:29:35 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update packages.xml, Create web-browsers.xml, Delete Default.xml
+pcbMRP	Thu Sep 22 10:58:35 2016	 -0400 --	robertjackson	OnHandCalculator fixed, Prelim transaction list work
+pcbMRP	Wed Sep 21 13:55:52 2016	 -0400 --	robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/pcbmrp
+pcbMRP	Wed Sep 21 13:55:41 2016	 -0400 --	robertjackson	Picks generated on Build creation with CRUD cascade, Inventory On Hand fixed
+pcbMRP	Tue Sep 20 17:23:59 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Merge branch 'master'
+pcbMRP	Tue Sep 20 17:21:16 2016	 -0400 --	Jamie	Test push 3 Jamie Sept 19 2016
+pcbMRP	Tue Sep 20 17:17:30 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update diff.xml
+pcbMRP	Tue Sep 20 16:52:53 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Merge branch 'master'
+pcbMRP	Tue Sep 20 16:50:58 2016	 -0400 --	Jamie	Merge remote-tracking branch 'origin/master'
+pcbMRP	Tue Sep 20 15:16:52 2016	 -0400 --	Jamie	Test push Jamie Sept 19 2016
+pcbMRP	Tue Sep 20 16:31:49 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Create ignore.xml
+pcbMRP	Tue Sep 20 15:54:33 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Create vcs.xml, github_settings.xml
+pcbMRP	Tue Sep 20 15:45:22 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Overwrite local to https://spiderwebelectronics@bitbucket.org/itechnologyinc/pcbmrp.git
+pcbMRP	Tue Sep 20 15:39:00 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Merge branch 'master'
+pcbMRP	Tue Sep 20 15:26:40 2016	 -0400 --	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Create conda_packages.xml, IntelliLang.xml, ide.general.xml, Default.xml, diff.xml, laf.xml, packages.xml, keymap.xml, web-browsers.xml, gradle.run.settings.xml, git.xml, debugger.xml, path.macros.xml
+pcbMRP	Tue Sep 20 15:16:52 2016	 -0400 --	Jamie	Test push Jamie Sept 19 2016
+pcbMRP	Fri Sep 16 17:45:46 2016	 -0400 --	robertjackson	Publish & Subscribe stubbed, fixes
+pcbMRP	Fri Sep 9 11:50:32 2016 	-0400 --	robertjackson	Add Re-calculate button to Inventory, Stub for subscriber thread
+pcbMRP	Thu Sep 8 21:33:42 2016 	-0400 --	robertjackson	Add Data Source Selection radio buttons, Inventory: add Date selector
+pcbMRP	Tue Sep 6 17:27:33 2016 	-0400 --	robertjackson	Fix date representation in on hand calculation
+pcbMRP	Tue Sep 6 10:15:54 2016 	-0400 --	robertjackson	Implement On Hand tab, Codec setting
+pcbMRP	Tue Aug 30 15:31:15 2016	 -0400 -- robertjackson		Build scheduling implemented
+pcbMRP	Thu Aug 25 22:29:31 2016	 -0400 --	robertjackson	Fixes
+pcbMRP	Wed Aug 24 22:24:42 2016	 -0400 --	robertjackson	Fix PPP-54
+pcbMRP	Wed Aug 24 21:59:51 2016	 -0400 --	robertjackson	Fixes
+pcbMRP	Wed Aug 24 14:35:30 2016	 -0400 --	robertjackson	cleanDate() everywhere
+pcbMRP	Tue Aug 23 17:20:14 2016	 -0400 --	Steve Jackson	Fixed common -> cleanDate()
+pcbMRP	Tue Aug 23 16:58:24 2016	 -0400 --	robertjackson	Test for Date Cleaning in Build Record
+pcbMRP	Tue Aug 23 13:59:15 2016	 -0400 --	robertjackson	Fix broken shortages.py
+pcbMRP	Sat Aug 20 01:48:05 2016	 -0400 --	robertjackson	Bug Fixes
+pcbMRP	Thu Aug 18 14:52:21 2016	 -0400 --	robertjackson	Merge conflicts with Chris’s push
+pcbMRP	Thu Aug 18 14:47:24 2016	 -0400 --	robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/pcbmrp
+pcbMRP	Thu Aug 18 14:44:50 2016	 -0400 --	robertjackson	Bug Fixes, Numeric Sort for Parts & Pending POs, Date Fixes
+pcbMRP	Tue Aug 16 17:52:57 2016	 -0400 --	Chris-B-Jackson	Add encoding to archive opens
+pcbMRP	Sat Aug 13 02:39:38 2016	 -0400 --	robertjackson	Improve Purchase History Dialog (Purchasing Tab)
+pcbMRP	Fri Aug 12 15:53:32 2016	 -0400 --	robertjackson	Bug fix, Implemented Issuing PO’s, Report Viewer
+pcbMRP	"Fri Aug 5 01:18:15 2016"" -0400 --robertjacksonMultiple Fixes - Individual BOM costingpcbMRP""Tue Jul 26 16:00:24 2016"	 -0400 --	Steve	Change archivePath to relative path
+pcbMRP	Mon Jul 25 12:43:06 2016	 -0400 --	robertjackson	Fix path problem in scheduler.py
+pcbMRP	Mon Jul 25 11:40:47 2016	 -0400 --	robertjackson	New PO layout, Scheduling Builds
+pcbMRP	Wed Jul 20 16:29:33 2016	 -0400 --	robertjackson	Fixed Common -> partDescription bug
+pcbMRP	Tue Jul 19 16:34:22 2016	 -0400 --	robertjackson	Fixes: ppp-27 thru ppp-35
+pcbMRP	Mon Jul 18 15:56:50 2016	 -0400 --	robertjackson	Energized Pick Detail tab, Fixed Bugs
+pcbMRP	Thu Jul 14 23:44:23 2016	 -0400 --	robertjackson	Fixed Bugs
+pcbMRP	Thu Jul 14 22:26:32 2016	 -0400 --	robertjackson	Energized BOM Costing tab
+pcbMRP	Thu Jul 14 01:25:01 2016	 -0400 --	robertjackson	Fixed modality problem for Purchase History Dialog
+pcbMRP	Wed Jul 13 15:13:39 2016	 -0400 --	robertjackson	Resolved dialog issues.
+pcbMRP	Tue Jul 12 17:19:50 2016	 -0400 --	robertjackson	Shipping Record tab energized
+pcbMRP	Tue Jul 12 00:15:28 2016	 -0400 --	robertjackson	Energized the Receiving Record tab
+pcbMRP	Fri Jul 8 13:04:59 2016 	-0400 --	robertjackson	Another interim push. Small changes
+pcbMRP	Thu Jul 7 14:29:20 2016 	-0400 --	robertjackson	Interim Push
+pcbMRP	Wed Jul 6 15:02:23 2016 	-0400 --	robertjackson	Some fixes. Implemented Generate Shortages Button on Build
+pcbMRP	Fri Jul 1 01:07:33 2016 	-0400 --	robertjackson	CPNPriceHistory - much faster
+pcbMRP	Thu Jun 30 12:06:59 2016	 -0400 --	robertjackson	Add Price History capability - Slow version
+pcbMRP	Tue Jun 28 23:34:08 2016	 -0400 --	robertjackson	Fix record matching for refresh routines
+pcbMRP	Tue Jun 28 11:20:02 2016	 -0400 --	robertjackson	Fixes & repair Parts Tab layout
+pcbMRP	Tue Jun 28 10:12:58 2016	 -0400 --	robertjackson	Fix Shortage Calculator
+pcbMRP	Mon Jun 27 22:50:09 2016	 -0400 --	robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/pcbmrp
+pcbMRP	Mon Jun 27 22:49:54 2016	 -0400 --	robertjackson	Add Record ID (UUID) and related record link and tenant UUID to tabs and editors
+pcbMRP	Wed Jun 22 14:11:35 2016	 +0000 --	itechnologyinc	README.md edited online with Bitbucket
+pcbMRP	Wed Jun 22 14:10:03 2016	 +0000 --	itechnologyinc	README.md edited online with Bitbucket
+pcbMRP	Mon Jun 20 16:35:43 2016	 -0400 --	robertjackson	On-Going Development
+pcbMRP	Fri Jun 10 09:23:38 2016	 -0400 --	robertjackson	Implemented BOM tab
+pcbMRP	Tue Jun 7 15:24:09 2016 	-0400 --	robertjackson	New Main Page
+pcbMRP	Thu Jun 2 16:13:14 2016 	-0400 --	robertjackson	Initial Commit
+pcbMRP	Thu Jun 2 15:50:37 2016 	-0400 --	robertjackson	Initial commit with contributors
+pcbMRP 2	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+Phoenix	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+POSLAB	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+pwb	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+pwbMRP	Thu Oct 20 13:56:57 2016	 -0400 --	 robertjackson	Bypass WIP
+pwbMRP	Wed Oct 19 12:30:24 2016	 -0400 --	 robertjackson	Fix Shortages, Add features
+pwbMRP	Wed Oct 5 16:26:17 2016 	-0400 -- 	robertjackson	Fix Boo Boo
+pwbMRP	Wed Oct 5 16:22:19 2016 	-0400 -- 	robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/pcbmrp
+pwbMRP	Wed Oct 5 16:15:10 2016 	-0400 -- 	robertjackson	Implement authentication, Suppress print statements
+pwbMRP	Wed Oct 5 11:51:42 2016 	-0400 -- 	Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update packages.xml, Delete web-browsers.xml
+pwbMRP	Thu Sep 29 17:05:45 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update diff.xml
+pwbMRP	Thu Sep 29 15:09:09 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update packages.xml, Create web-browsers.xml, Delete Default.xml
+pwbMRP	Thu Sep 29 14:22:37 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Merge branch 'master'
+pwbMRP	Wed Sep 28 11:53:18 2016	 -0400 --	 robertjackson	Implement P & S
+pwbMRP	Tue Sep 27 11:43:33 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update packages.xml, Delete web-browsers.xml
+pwbMRP	Fri Sep 23 12:45:28 2016	 -0400 --	 robertjackson	Fixed some boo boo’s
+pwbMRP	Fri Sep 23 10:27:00 2016	 -0400 --	 robertjackson	Part Transactions added.
+pwbMRP	Thu Sep 22 13:29:34 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update find.xml
+pwbMRP	Thu Sep 22 12:07:40 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Create find.xml
+pwbMRP	Thu Sep 22 11:58:58 2016	 -0400 --	 robertjackson	Fix Pick generation to allow for fractional quantities
+pwbMRP	Thu Sep 22 11:29:35 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update packages.xml, Create web-browsers.xml, Delete Default.xml, Delete Default.xml
+pwbMRP	Thu Sep 22 10:58:35 2016	 -0400 --	 robertjackson	OnHandCalculator fixed, Prelim transaction list work
+pwbMRP	Wed Sep 21 13:55:52 2016	 -0400 --	 robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/pcbmrp
+pwbMRP	Wed Sep 21 13:55:41 2016	 -0400 --	 robertjackson	Picks generated on Build creation with CRUD cascade, Inventory On Hand fixed
+pwbMRP	Tue Sep 20 17:23:59 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Merge branch 'master'
+pwbMRP	Tue Sep 20 17:21:16 2016	 -0400 --	 Jamie	Test push 3 Jamie Sept 19 2016
+pwbMRP	Tue Sep 20 17:17:30 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Update diff.xml
+pwbMRP	Tue Sep 20 16:52:53 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Merge branch 'master'
+pwbMRP	Tue Sep 20 16:50:58 2016	 -0400 --	 Jamie	Merge remote-tracking branch 'origin/master'
+pwbMRP	Tue Sep 20 15:16:52 2016	 -0400 --	 Jamie	Test push Jamie Sept 19 2016
+pwbMRP	Tue Sep 20 16:31:49 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Create ignore.xml
+pwbMRP	Tue Sep 20 15:54:33 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Create vcs.xml, github_settings.xml
+pwbMRP	Tue Sep 20 15:45:22 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Overwrite local to https://spiderwebelectronics@bitbucket.org/itechnologyinc/pcbmrp.git
+pwbMRP	Tue Sep 20 15:39:00 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Merge branch 'master'
+pwbMRP	Tue Sep 20 15:26:40 2016	 -0400 --	 Jamie	IC-2016.2.4 <sbj@sbj-ThinkPad-T410 Create conda_packages.xml, IntelliLang.xml, ide.general.xml, Default.xml, diff.xml, laf.xml, packages.xml, keymap.xml, web-browsers.xml, gradle.run.settings.xml, git.xml, debugger.xml, path.macros.xml
+pwbMRP	Tue Sep 20 15:16:52 2016	 -0400 --	 Jamie	Test push Jamie Sept 19 2016
+pwbMRP	Fri Sep 16 17:45:46 2016	 -0400 --	 robertjackson	Publish & Subscribe stubbed, fixes
+pwbMRP	Fri Sep 9 11:50:32 2016 	-0400 -- 	robertjackson	Add Re-calculate button to Inventory, Stub for subscriber thread
+pwbMRP	Thu Sep 8 21:33:42 2016 	-0400 -- 	robertjackson	Add Data Source Selection radio buttons, Inventory: add Date selector
+pwbMRP	Tue Sep 6 17:27:33 2016 	-0400 -- 	robertjackson	Fix date representation in on hand calculation
+pwbMRP	Tue Sep 6 10:15:54 2016 	-0400 -- 	robertjackson	Implement On Hand tab, Codec setting
+pwbMRP	Tue Aug 30 15:31:15 2016	 -0400 --	 robertjackson	Build scheduling implemented
+pwbMRP	Thu Aug 25 22:29:31 2016	 -0400 --	 robertjackson	Fixes
+pwbMRP	Wed Aug 24 22:24:42 2016	 -0400 --	 robertjackson	Fix PPP-54
+pwbMRP	Wed Aug 24 21:59:51 2016	 -0400 --	 robertjackson	Fixes
+pwbMRP	Wed Aug 24 14:35:30 2016	 -0400 --	 robertjackson	cleanDate() everywhere
+pwbMRP	Tue Aug 23 17:20:14 2016	 -0400 --	 Steve Jackson	Fixed common -> cleanDate()
+pwbMRP	Tue Aug 23 16:58:24 2016	 -0400 --	 robertjackson	Test for Date Cleaning in Build Record
+pwbMRP	Tue Aug 23 13:59:15 2016	 -0400 --	 robertjackson	Fix broken shortages.py
+pwbMRP	Sat Aug 20 01:48:05 2016	 -0400 --	 robertjackson	Bug Fixes
+pwbMRP	Thu Aug 18 14:52:21 2016	 -0400 --	 robertjackson	Merge conflicts with Chris’s push
+pwbMRP	Thu Aug 18 14:47:24 2016	 -0400 --	 robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/pcbmrp
+pwbMRP	Thu Aug 18 14:44:50 2016	 -0400 --	 robertjackson	Bug Fixes, Numeric Sort for Parts & Pending POs, Date Fixes
+pwbMRP	Tue Aug 16 17:52:57 2016	 -0400 --	 Chris-B-Jackson	Add encoding to archive opens
+pwbMRP	Sat Aug 13 02:39:38 2016	 -0400 --	 robertjackson	Improve Purchase History Dialog (Purchasing Tab)
+pwbMRP	Fri Aug 12 15:53:32 2016	 -0400 --	 robertjackson	Bug fix, Implemented Issuing PO’s, Report Viewer
+pwbMRP	Fri Aug 5 01:18:15 2016 	-0400 -- 	robertjackson	Multiple Fixes - Individual BOM costing
+pwbMRP	Tue Jul 26 16:00:24 2016	 -0400 --	 Steve	Change archivePath to relative path
+pwbMRP	Mon Jul 25 12:43:06 2016	 -0400 --	 robertjackson	Fix path problem in scheduler.py
+pwbMRP	Mon Jul 25 11:40:47 2016	 -0400 --	 robertjackson	New PO layout, Scheduling Builds
+pwbMRP	Wed Jul 20 16:29:33 2016	 -0400 --	 robertjackson	Fixed Common -> partDescription bug
+pwbMRP	Tue Jul 19 16:34:22 2016	 -0400 --	 robertjackson	Fixes: ppp-27 thru ppp-35
+pwbMRP	Mon Jul 18 15:56:50 2016	 -0400 --	 robertjackson	Energized Pick Detail tab, Fixed Bugs
+pwbMRP	Thu Jul 14 23:44:23 2016	 -0400 --	 robertjackson	Fixed Bugs
+pwbMRP	Thu Jul 14 22:26:32 2016	 -0400 --	 robertjackson	Energized BOM Costing tab
+pwbMRP	Thu Jul 14 01:25:01 2016	 -0400 --	 robertjackson	Fixed modality problem for Purchase History Dialog
+pwbMRP	Wed Jul 13 15:13:39 2016	 -0400 --	 robertjackson	Resolved dialog issues.
+pwbMRP	Tue Jul 12 17:19:50 2016	 -0400 --	 robertjackson	Shipping Record tab energized
+pwbMRP	Tue Jul 12 00:15:28 2016	 -0400 --	 robertjackson	Energized the Receiving Record tab
+pwbMRP	Fri Jul 8 13:04:59 2016 	-0400 -- 	robertjackson	Another interim push. Small changes
+pwbMRP	Thu Jul 7 14:29:20 2016 	-0400 -- 	robertjackson	Interim Push
+pwbMRP	Wed Jul 6 15:02:23 2016 	-0400 -- 	robertjackson	Some fixes. Implemented Generate Shortages Button on Build
+pwbMRP	Fri Jul 1 01:07:33 2016 	-0400 -- 	robertjackson	CPNPriceHistory - much faster
+pwbMRP	Thu Jun 30 12:06:59 2016	 -0400 --	 robertjackson	Add Price History capability - Slow version
+pwbMRP	Tue Jun 28 23:34:08 2016	 -0400 --	 robertjackson	Fix record matching for refresh routines
+pwbMRP	Tue Jun 28 11:20:02 2016	 -0400 --	 robertjackson	Fixes & repair Parts Tab layout
+pwbMRP	Tue Jun 28 10:12:58 2016	 -0400 --	 robertjackson	Fix Shortage Calculator
+pwbMRP	Mon Jun 27 22:50:09 2016	 -0400 --	 robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/pcbmrp
+pwbMRP	Mon Jun 27 22:49:54 2016	 -0400 --	 robertjackson	Add Record ID (UUID) and related record link and tenant UUID to tabs and editors
+pwbMRP	Wed Jun 22 14:11:35 2016	 +0000 --	 itechnologyinc	README.md edited online with Bitbucket
+pwbMRP	Wed Jun 22 14:10:03 2016	 +0000 --	 itechnologyinc	README.md edited online with Bitbucket
+pwbMRP	Mon Jun 20 16:35:43 2016	 -0400 --	 robertjackson	On-Going Development
+pwbMRP	Fri Jun 10 09:23:38 2016	 -0400 --	 robertjackson	Implemented BOM tab
+pwbMRP	Tue Jun 7 15:24:09 2016 	-0400 -- 	robertjackson	New Main Page
+pwbMRP	Thu Jun 2 16:13:14 2016 	-0400 -- 	robertjackson	Initial Commit
+pwbMRP	Thu Jun 2 15:50:37 2016 	-0400 -- 	robertjackson	Initial commit with contributors
+pypitest	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+pythonarchivist	Wed Sep 25 14:23:07 2019	-0400 --	robertjackson	Orphan Repair, Apply eventzAPI
+pythonarchivist	Thu Jun 21 00:42:45 2018	-0400 --	robertjackson	Fixes
+pythonarchivist	Thu Jun 14 14:37:42 2018	 -0400 --	 Jamie	Added Yaml support. Updated to lastest DSAPI 1.0.1.
+pythonarchivist	Thu Jun 7 15:02:28 2018 	-0400 -- 	robertjackson	Update
+pythonarchivist	Tue Feb 13 11:21:40 2018	 -0500 --	 robertjackson	Harcoded parameters
+pythonarchivist	Wed Feb 7 16:36:51 2018 	-0500 -- 	Jamie Rodgers	Added new DSAPI to archivist
+pythonarchivist	Wed Feb 7 15:07:47 2018 	-0500 -- 	Jamie Rodgers	Changes to current archivist before new DSAPI  new Record Type
+pythonarchivist	Wed Oct 18 13:40:37 2017	 -0400 --	 Jamie Rodgers	Merge remote-tracking branch 'origin/master'
+pythonarchivist	Wed Oct 18 13:37:32 2017	 -0400 --	 Jamie Rodgers	Converted print to logger and changed to amq.topic exchanage
+pythonarchivist	Tue Jul 11 14:32:18 2017	 -0400 --	 robertjackson	Implement TLS (Encryption)
+pythonarchivist	Fri Jun 30 11:01:55 2017	 -0400 --	 robertjackson	DSAPI bug fix
+pythonarchivist	Thu Jun 29 13:56:57 2017	 -0400 --	 robertjackson	Moved globals, Updated dsapi.py
+pythonarchivist	Wed May 17 15:15:11 2017	 -0400 --	 Jamie Rodgers	updated archive.service
+pythonarchivist	Wed May 17 15:13:08 2017	 -0400 --	 Jamie Rodgers	Updated to use logging
+pythonarchivist	Mon Mar 20 14:52:18 2017	 -0400 --	 robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/pythonarchivist
+pythonarchivist	Mon Mar 20 14:29:26 2017	 -0400 --	 robertjackson	Mods to dsapi
+pythonarchivist	Thu Mar 9 15:17:02 2017 	-0500 -- 	Jamie Rodgers	Updated for the raspberrypi
+pythonarchivist	Wed Mar 8 16:20:17 2017 	-0500 -- 	Jamie Rodgers	Updated the Publish and added Error messaging.
+pythonarchivist	Tue Mar 7 15:15:31 2017 	-0500 -- 	robertjackson	Implement new metadata.
+pythonarchivist	Thu Feb 16 15:52:48 2017	 -0500 --	 Jamie Rodgers	Added an archive.service to so product can auto start archiving after boot
+pythonarchivist	Sun Feb 5 15:15:57 2017 	-0500 -- 	robertjackson	Repaired (I think) code I stepped on in last push
+pythonarchivist	Fri Feb 3 22:26:13 2017 	-0500 -- 	robertjackson	kombu Implementation
+pythonarchivist	Wed Feb 1 13:48:28 2017 	-0500 -- 	Jamie Rodgers	Will not reconnet with RabbitMQ is connection is lost.
+pythonarchivist	Wed Feb 1 11:58:18 2017 	-0500 -- 	Jamie Rodgers	Fixed up some formatting issues.  Tested.  Calling this Version1.0
+pythonarchivist	Tue Jan 31 15:18:50 2017	 -0500 --	 Jamie Rodgers	Add system monitor functions
+pythonarchivist	Tue Jan 31 14:57:25 2017	 -0500 --	 Jamie Rodgers	Added Global file g.py and refered to in archivist.py
+pythonarchivist	Tue Jan 31 14:42:20 2017	 -0500 --	 Jamie Rodgers	After clean up adding gitignore as not to add the files again
+pythonarchivist	Tue Jan 31 14:40:15 2017	 -0500 --	 Jamie Rodgers	Cleaning up repro.
+pythonarchivist	Tue Jan 31 14:39:16 2017	 -0500 --	 Jamie Rodgers	Clean up respository - should not have xml files in it.
+pythonarchivist	Tue Jan 31 14:34:25 2017	 -0500 --	 Jamie Rodgers	Updated Arcivist
+pythonarchivist	Fri Sep 30 14:41:06 2016	 -0400 --	 robertjackson	initial commit of full repository
+pythonlibrarian	Thu Sep 26 14:13:56 2019	 -0400 --	 robertjackson	Switch to eventzAPI from dsapi
+pythonlibrarian	Thu Jun 14 13:51:48 2018	 -0400 --	 robertjackson	Fix Archivepath & dateutil import
+pythonlibrarian	Tue Jun 12 15:20:58 2018	 -0400 --	 Jamie	Added __version__ label updated to DSAPI version 1.0.1 and modified code to support it Added settings.yaml and removed setting.py and broker.py
+pythonlibrarian	Thu Jun 7 15:03:56 2018 	-0400 -- 	robertjackson	Small Fix
+pythonlibrarian	Wed Apr 11 16:06:29 2018	 -0400 --	 Jamie	Cleaned up the exit processes to clean up the queues on exit.
+pythonlibrarian	Tue Apr 10 17:11:57 2018	 -0400 --	 robertjackson	Fix bad query bailout problem
+pythonlibrarian	Wed Mar 21 14:14:02 2018	 -0400 --	 robertjackson	Handle regular expressions and ‘BETWEEN’
+pythonlibrarian	Mon Feb 12 21:43:37 2018	 -0500 --	 robertjackson	Modify refreshArchive
+pythonlibrarian	Thu Feb 8 16:12:04 2018 	-0500 -- 	Jamie Rodgers	Updated source to the current DSAPI
+pythonlibrarian	Thu Dec 21 17:08:56 2017	 -0500 --	 robertjackson	Updated for versioning
+pythonlibrarian	Fri Jun 30 11:03:32 2017	 -0400 --	 robertjackson	DSAPI Fix
+pythonlibrarian	Thu Jun 29 13:53:17 2017	 -0400 --	 robertjackson	Bug fix and enhancements
+pythonlibrarian	Fri May 19 15:10:49 2017	 -0400 --	 robertjackson	Move to universal dsapi
+pythonlibrarian	Wed May 17 15:19:22 2017	 -0400 --	 Jamie Rodgers	Updated to logging no Qt
+pythonlibrarian	Thu Apr 6 12:01:32 2017 	-0400 -- 	robertjackson	Activated subscriber to handle system messages only
+pythonlibrarian	Thu Mar 30 16:49:59 2017	 -0400 --	 Jamie Rodgers	Fixed publishing to the correct exchange
+pythonlibrarian	Tue Mar 21 18:25:43 2017	 -0400 --	 Jamie Rodgers	Updated for use on the Raspberrypi
+pythonlibrarian	Mon Mar 20 15:37:46 2017	 -0400 --	 robertjackson	Merge branch 'master' of https://bitbucket.org/itechnologyinc/pythonlibrarian
+pythonlibrarian	Mon Mar 20 14:53:23 2017	 -0400 --	 robertjackson	Switch to dsiapi
+pythonlibrarian	Thu Mar 9 15:19:30 2017 	-0500 -- 	Jamie Rodgers	Changes for the raspberrypi
+pythonlibrarian	Tue Mar 7 15:20:39 2017 	-0500 -- 	robertjackson	Implement new metadata, expand filters, start & stop System Messages
+pythonlibrarian	Tue Feb 28 16:15:32 2017	 -0500 --	 robertjackson	Librarian2 added
+pythonlibrarian	Wed Feb 1 14:47:08 2017 	-0500 -- 	Jamie Rodgers	adding g.py and rename original librarian to V1_0
+pythonlibrarian	Wed Feb 1 13:55:01 2017 	-0500 -- 	Jamie Rodgers	Added .gitinore as to not add .idea ever again.
+pythonlibrarian	Wed Feb 1 13:52:32 2017 	-0500 -- 	Jamie Rodgers	Removed .idea file from project
+pythonlibrarian	Fri Sep 30 15:07:08 2016	 -0400 --	 robertjackson	initial commit of full repository
+qtTest	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+raspberrypi	Thu Jan 5 16:17:46 2017 	-0500 -- 	Jamie Rodgers	Test save message
+raspberrypi	Fri Jan 6 01:49:48 2017 	+0500 -- 	spiderwebelectronics	updated the archivist/libarian to us g.py file
+raspberrypi	Thu Dec 22 16:00:58 2016	 -0500 --	Jamie Rodgers	changed username spelling userName
+raspberrypi	Thu Dec 22 13:44:39 2016	 -0500 --	Jamie Rodgers	Cleaning up the source
+raspberrypi	Thu Dec 22 10:36:54 2016	 -0500 --	Jamie Rodgers	Minor fixes
+raspberrypi	Tue Dec 13 17:45:00 2016	 -0500 --	SpiderwebElectronics	fixed Typo
+raspberrypi	Tue Dec 13 17:30:30 2016	 -0500 --	SpiderwebElectronics	Changed to use localhost as an brokerIP
+raspberrypi	Tue Dec 13 17:14:50 2016	 -0500 --	SpiderwebElectronics	Adding files again
+raspberrypi	Tue Dec 13 17:14:09 2016	 -0500 --	SpiderwebElectronics	Adding more files
+raspberrypi	Tue Dec 13 17:03:22 2016	 -0500 --	SpiderwebElectronics	Added Main
+raspberrypi	Tue Dec 13 16:46:40 2016	 -0500 --	SpiderwebElectronics	Working Demo
+raspberrypi	Tue Nov 29 15:26:16 2016	 -0500 --	Jamie Rodgers	windows/raspberry testing
+raspberrypi	Thu Nov 24 17:09:01 2016	 -0500 --	Jamie Rodgers	Added running Window box for debug.
+raspberrypi	Thu Nov 24 15:24:24 2016	 -0500 --	Jamie Rodgers	Init save of Code for Raspberry Pi
+raspberrypi	Thu Nov 24 20:19:17 2016	 +0000 --	Jamie Rodgers	.gitignore created online with Bitbucket
+reporter	Thu Sep 21 17:12:08 2017	-0400 --	robertjackson	Initial Commit
+SystemMonitor	Tue Dec 20 22:15:14 2016	+0000 --	I-Technology Inc. NA	README.md edited online with Bitbucket
+SystemMonitor	Tue Dec 20 22:11:02 2016	+0000 --	I-Technology Inc. NA	.gitignore created online with Bitbucket
+SystemMonitor	Tue Dec 20 16:52:33 2016	-0500 --	robertjackson	initial commit of full repository
+SystemMonitor2	Tue Mar 5 15:20:00 2019 	-0500 -- 	robertjackson	Update to new DSAPI
+SystemMonitor2	Thu Jul 19 15:32:38 2018	 -0400 --	 Jamie	Updated to the lastest DSAPI (Ver 1.00) and to used a setting.yaml file for configuration.
+SystemMonitor2	Thu Jul 19 15:30:28 2018	 -0400 --	 Jamie	Updated to the lastest DSAPI (Ver 1.00) and to used a setting.yaml file for configuration.
+SystemMonitor2	Thu Jul 19 14:26:34 2018	 -0400 --	 robertjackson	Update
+SystemMonitor2	Wed Mar 28 15:55:23 2018	 -0400 --	 robertjackson	Update dsapi
+SystemMonitor2	Fri Nov 3 15:05:37 2017 	-0400 -- 	robertjackson	Update to new dsapi
+SystemMonitor2	Wed Oct 4 14:58:04 2017 	-0400 -- 	robertjackson	Added Publisher & Subscriber tracking
+SystemMonitor2	Thu Sep 21 17:05:09 2017	 -0400 --	 robertjackson	Updated Data Definition Capability
+SystemMonitor2	Tue May 16 10:45:26 2017	 -0400 --	 robertjackson	Move to dsapi Implement Data Definitions
+SystemMonitor2	Fri Mar 31 14:21:44 2017	 -0400 --	 robertjackson	Initial Commit

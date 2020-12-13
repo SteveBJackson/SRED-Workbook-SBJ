@@ -1,0 +1,242 @@
+﻿2018-09-01			194
+2018-09-02			194
+2018-09-03			194
+2018-09-04			194
+2018-09-05	6	DSI – Upwork Calendar Spec	194
+2018-09-06	5	DSI - Misc	194
+2018-09-07			194
+2018-09-08			194
+2018-09-09			194
+2018-09-10			194
+2018-09-11	5	DSI – Misc. New mail server	194
+2018-09-12	6	DSI, Magner support	194
+2018-09-13	5.5	DSI - Calendar, Magner board testing	194
+2018-09-14			194
+2018-09-15			194
+2018-09-16			194
+2018-09-17			194
+2018-09-18	5.5	DSI - Testing, Magner board testing	194
+2018-09-19	5.5	DSI - Testing, Magner board testing	194
+2018-09-20	5.5	DSI - Upwork Spec	194
+2018-09-21			194
+2018-09-22			194
+2018-09-23			194
+2018-09-24			194
+2018-09-25	6.5	DSI - Pyinstaller Windows	194
+2018-09-26	5.5	DSI - Pyinstaller on Linux, cleanup	194
+2018-09-27	5	DSI - upgrade Ubuntu 18.04, tested payrec	194
+2018-09-28			194
+2018-09-29			194
+2018-09-30			194
+2018-10-01			195
+2018-10-02	4.5	DSI -Payrec Testing	195
+2018-10-03	6.0	DSI - Speed test - payreconcile	195
+2018-10-04	5.5	DSI - Payreconcile Testing	195
+2018-10-05			195
+2018-10-06			195
+2018-10-07			195
+2018-10-08			195
+2018-10-09	5.5	DSI - Upwork writeup, Reconcile redo	195
+2018-10-10	5.5	DSI - Calendar Investigation	195
+2018-10-11	4.5	DSI - yaml file setting updates	195
+2018-10-12			195
+2018-10-13			195
+2018-10-14			195
+2018-10-15			195
+2018-10-16	6.0	DSI - Payreconcile	195
+2018-10-17	5.5	DSI - Cleanup	195
+2018-10-18	4.0	DSI - Payreconcile on Ubuntu	195
+2018-10-19			195
+2018-10-20			195
+2018-10-21			195
+2018-10-22			195
+2018-10-23	6.0	DSI – Autopay configuration	195
+2018-10-24	5.0	DSI - PayReconcile	195
+2018-10-25	5.5	DSI - Misc	195
+2018-10-26			195
+2018-10-27			195
+2018-10-28			195
+2018-10-29			195
+2018-10-30	6.5	DSI - Employee Portal - working again	195
+2018-10-31	5.5	DSI - Debug Employee Portal	195
+2018-11-01	5.5	DSI - Project roadmap, Demo Ready	196
+2018-11-02			196
+2018-11-03			196
+2018-11-04			196
+2018-11-05			196
+2018-11-06	6.5	DSI - Chris, Bob PayReconcile for new tax	196
+2018-11-07	6.0	DSI - Varous Updates	196
+2018-11-08	5.0	DSI- Pyinstaller	196
+2018-11-09			196
+2018-11-10			196
+2018-11-11			196
+2018-11-12			196
+2018-11-13	4.5	DSI - Pyinstaller on Windows with self exe	196
+2018-11-14	6.0	DSI - Pyinstaller on Ubuntu - Debug	196
+2018-11-15	0.0	Personal Day	196
+2018-11-16			196
+2018-11-17			196
+2018-11-18			196
+2018-11-19			196
+2018-11-20	5.5	DSI - PayReconcile Speed Test, Magner Testing	196
+2018-11-21	6.5	DSI - CentOS7 Configure Rabbitmq and Erlang	196
+2018-11-22	5.5	DSI - Configurture new CentOS 7 server	196
+2018-11-23			196
+2018-11-24			196
+2018-11-25			196
+2018-11-26			196
+2018-11-27	6.5	DSI - Debug HR Portal	196
+2018-11-28	6.5	DSI - Debug HR Portal	196
+2018-11-29	5.5	DSI - DSI GUI Framework	196
+2018-11-30			196
+2018-12-01			197
+2018-12-02			197
+2018-12-03			197
+2018-12-04	5.5	DSI - New HR portal	197
+2018-12-05	6.0	DSI - Hr Portal	197
+2018-12-06	5.5	DSI - Connection Harding	197
+2018-12-07			197
+2018-12-08			197
+2018-12-09			197
+2018-12-10			197
+2018-12-11	5.5	DSI - Misc, Meeting with Bob, Chris	197
+2018-12-12	6.0	DSI - Pyinstaller setting up auto scripts	197
+2018-12-13	6.0	DSI – Pyinstaller on Various Computers	197
+2018-12-14			197
+2018-12-15			197
+2018-12-16			197
+2018-12-17			197
+2018-12-18	5.5	DSI - No Connection Error Box	197
+2018-12-19	6.0	DSI - Fix Login Screen,	197
+2018-12-20	5.5	DSI - HR Portal	197
+2018-12-21			197
+2018-12-22			197
+2018-12-23			197
+2018-12-24			197
+2018-12-25	0.0	Personal Day	197
+2018-12-26	0.0	Personal Day	197
+2018-12-27	0.0	Personal Day	197
+2018-12-28			197
+2018-12-29			197
+2018-12-30			197
+2018-12-31			197
+2019-01-01			198
+2019-01-02	5.5	DSI - Meeting, Smart till	198
+2019-01-03	6.0	DSI, SmartTill Configuration	198
+2019-01-04			198
+2019-01-05			198
+2019-01-06			198
+2019-01-07			198
+2019-01-08	5.5	DSI – Stability	198
+2019-01-09	5.5	DSI - Security SSH and Open Source	198
+2019-01-10	5.5	DSI - Open Source	198
+2019-01-11			198
+2019-01-12			198
+2019-01-13			198
+2019-01-14			198
+2019-01-15	7.0	DSI - Meeting	198
+2019-01-16	3.5	DSI - Open Source topology	198
+2019-01-17	5.0	DSI - Virtual host on Rabbitmq server	198
+2019-01-18			198
+2019-01-19			198
+2019-01-20			198
+2019-01-21			198
+2019-01-22	5.5	DSI – Virtual host, meetings	198
+2019-01-23	6.0	DSI – Encryption, Remote hosting	198
+2019-01-24	0.0	Personal Day	198
+2019-01-25	5.5	DSI - Updated DSAPI on GitHub	198
+2019-01-26			198
+2019-01-27			198
+2019-01-28			198
+2019-01-29	0.0	Snow Day	198
+2019-01-30	0.0	Personal Day	198
+2019-01-31	6.0	DSI - Misc	198
+2019-02-01			199
+2019-02-02			199
+2019-02-03			199
+2019-02-04			199
+2019-02-05	0.0	Snow Day	199
+2019-02-06	5.5	DSI – Misc	199
+2019-02-07	5.5	DSI - Publisher to stay always open	199
+2019-02-08			199
+2019-02-09			199
+2019-02-10			199
+2019-02-11	6.0	DSI - Debug DSAPI for new publish and subscribe methods	199
+2019-02-12	0.0	Snow Day	199
+2019-02-13	0.0	Jarviniski 	199
+2019-02-14	6.0	DSI - Debug, Raspberry Pi Project	199
+2019-02-15			199
+2019-02-16			199
+2019-02-17			199
+2019-02-18			199
+2019-02-19	6.0	DSI - DSAPI testing and Queue controlling	199
+2019-02-20	6.0	DSI - DSAPI myDBID rewrite	199
+2019-02-21	5.0	DSI - DSAPI cleanup	199
+2019-02-22			199
+2019-02-23			199
+2019-02-24			199
+2019-02-25			199
+2019-02-26	6.0	DSI - White paper on redacting	199
+2019-02-27	4.5	DSI - Whitepaper on Redaction	199
+2019-02-28	5.5	DSI - Whitepaper - Managed DSI	199
+2019-03-01			200
+2019-03-02			200
+2019-03-03			200
+2019-03-04			200
+2019-03-05	6.5	DSI - Meeting Bob, Chris, Publisher Testing	200
+2019-03-06	6.5	DSI - Publisher Timeout	200
+2019-03-07	6.0	DSI - Heartbeat in Pika to Rabbitmq not working	200
+2019-03-08			200
+2019-03-09			200
+2019-03-10			200
+2019-03-11			200
+2019-03-12	0.0	Holiday	200
+2019-03-13	0.0	Holiday	200
+2019-03-14	0.0	Holiday	200
+2019-03-15			200
+2019-03-16			200
+2019-03-17			200
+2019-03-18			200
+2019-03-19	5.5	DSI - hotel testing	200
+2019-03-20	6.0	DSI - Virtual Servers	200
+2019-03-21	5.0	DSI - Speed testing on Virtual Servers	200
+2019-03-22			200
+2019-03-23			200
+2019-03-24			200
+2019-03-25			200
+2019-03-26	6.0	DSI - Virtual Server, Publisher maintain Connection	200
+2019-03-27	6.0	DSI – Publisher Testing	200
+2019-03-28	5.5	DSI - Virtual Server Speed Test	200
+2019-03-29			200
+2019-03-30			200
+2019-03-31			200
+2019-04-01			201
+2019-04-02	5.5	DSI - Dissusion refining subscriptions	201
+2019-04-03	6.5	DSI - Debug rabbitmq server - Reboot fix	201
+2019-04-04			201
+2019-04-05	5.5	DSI - White paper reviews	201
+2019-04-06			201
+2019-04-07			201
+2019-04-08			201
+2019-04-09	6.5	DSI - PandS testing and white-paper 	201
+2019-04-10	5.5	DSI - Quality Assurance	201
+2019-04-11	4.0	DSI – Subscriber Starting missing messages	201
+2019-04-12			201
+2019-04-13			201
+2019-04-14			201
+2019-04-15			201
+2019-04-16	4.0	DSI – Subscriber	201
+2019-04-17		Jaravinski	201
+2019-04-18		Jaravinski	201
+2019-04-19			201
+2019-04-20			201
+2019-04-21			201
+2019-04-22			201
+2019-04-23		Jaravinski	201
+2019-04-24	5.5	DSI - Docker with Bob	201
+2019-04-25		Jaravinski	201
+2019-04-26			201
+2019-04-27			201
+2019-04-28			201
+2019-04-29			201
+2019-04-30	2.5	DSI - Docker	201
